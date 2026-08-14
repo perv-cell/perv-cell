@@ -21,79 +21,54 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c109db6def9d52c54e3c4b254418bac1168c69e43a854c891141d970ee234ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d2532333030303030303f7374796c653d666c61742d737175617265266c6f676f3d6e657874646f746a73"><img src="https://camo.githubusercontent.com/c109db6def9d52c54e3c4b254418bac1168c69e43a854c891141d970ee234ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d2532333030303030303f7374796c653d666c61742d737175617265266c6f676f3d6e657874646f746a73" alt="Next.js" data-canonical-src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&amp;logo=nextdotjs" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e167ae6b202b55bb43b017f862ba37fb985632dccb260740131a9b02f8d5d3a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e644353532d2532333161323032633f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e642d637373"><img src="https://camo.githubusercontent.com/e167ae6b202b55bb43b017f862ba37fb985632dccb260740131a9b02f8d5d3a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e644353532d2532333161323032633f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e642d637373" alt="TailwindCSS" data-canonical-src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&amp;logo=tailwind-css" style="max-width: 100%;"></a></p>
 <p  dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://gin-gonic.com/"><img src="https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" style="max-width: 100%;">
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/">
-  <img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="max-width: 100%;">
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/">
-  <img src="https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://gin-gonic.com/"><img src="https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://flask.palletsprojects.com/">
-  <img src="https://img.shields.io/badge/-Flask-%23000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-</a>
+  <img src="https://img.shields.io/badge/-Flask-%23000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlalchemy.org/">
-  <img src="https://img.shields.io/badge/-SQLAlchemy-%23CA3A3A?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy">
-</a>
+  <img src="https://img.shields.io/badge/-SQLAlchemy-%23CA3A3A?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://alembic.sqlalchemy.org/">
-  <img src="https://img.shields.io/badge/-Alembic-%23CA3A3A?style=flat-square&logo=python&logoColor=white" alt="Alembic">
-</a>
+  <img src="https://img.shields.io/badge/-Alembic-%23CA3A3A?style=flat-square&logo=python&logoColor=white" alt="Alembic"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.pydantic.dev/">
-  <img src="https://img.shields.io/badge/-Pydantic-%23E92063?style=flat-square&logo=python&logoColor=white" alt="Pydantic">
-</a>
+  <img src="https://img.shields.io/badge/-Pydantic-%23E92063?style=flat-square&logo=python&logoColor=white" alt="Pydantic"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.uvicorn.org/">
-  <img src="https://img.shields.io/badge/-Uvicorn-%2300C7B7?style=flat-square&logo=python&logoColor=white" alt="Uvicorn">
-</a>
+  <img src="https://img.shields.io/badge/-Uvicorn-%2300C7B7?style=flat-square&logo=python&logoColor=white" alt="Uvicorn"></a>
 </p>
 <p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://echo.labstack.com/">
-  <img src="https://img.shields.io/badge/-Echo-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Echo">
-</a>
+  <img src="https://img.shields.io/badge/-Echo-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Echo"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.dev/">
-  <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-</a>  
+  <img src="https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/spf13/cobra">
-  <img src="https://img.shields.io/badge/-Cobra-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Cobra">
-</a>
+  <img src="https://img.shields.io/badge/-Cobra-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Cobra"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/spf13/viper">
-  <img src="https://img.shields.io/badge/-Viper-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Viper">
-</a>
+  <img src="https://img.shields.io/badge/-Viper-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Viper"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://gofiber.io/">
-  <img src="https://img.shields.io/badge/-Fiber-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber">
-</a>
+  <img src="https://img.shields.io/badge/-Fiber-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber"></a>
 </p>
 <p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</a>
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/">
-  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://gitlab.com/">
-  <img src="https://img.shields.io/badge/-GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
-</a>
+  <img src="https://img.shields.io/badge/-GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</a>
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://kubernetes.io/">
-  <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</a>
+  <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
 </p>
 <p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</a>
+  <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://redis.io/">
-  <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-</a>
+  <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://kafka.apache.org/">
-  <img src="https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
-</a>
+  <img src="https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://nginx.org/">
-  <img src="https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-</a>
+  <img src="https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linux.org/">
-  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</a>
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
 </p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">𝗦𝘁𝗮𝘁𝘀</h2><a id="user-content-𝗦𝘁𝗮𝘁𝘀" class="anchor" aria-label="Permalink: 𝗦𝘁𝗮𝘁𝘀" href="#𝗦𝘁𝗮𝘁𝘀"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
