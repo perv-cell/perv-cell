@@ -20,22 +20,15 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7100990e019232f90baec07e1966f5b92f67af8a75125cef6b9ff2cf031633c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/7100990e019232f90baec07e1966f5b92f67af8a75125cef6b9ff2cf031633c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React.js" data-canonical-src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&amp;logo=react" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c109db6def9d52c54e3c4b254418bac1168c69e43a854c891141d970ee234ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d2532333030303030303f7374796c653d666c61742d737175617265266c6f676f3d6e657874646f746a73"><img src="https://camo.githubusercontent.com/c109db6def9d52c54e3c4b254418bac1168c69e43a854c891141d970ee234ce6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d2532333030303030303f7374796c653d666c61742d737175617265266c6f676f3d6e657874646f746a73" alt="Next.js" data-canonical-src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&amp;logo=nextdotjs" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e167ae6b202b55bb43b017f862ba37fb985632dccb260740131a9b02f8d5d3a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e644353532d2532333161323032633f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e642d637373"><img src="https://camo.githubusercontent.com/e167ae6b202b55bb43b017f862ba37fb985632dccb260740131a9b02f8d5d3a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e644353532d2532333161323032633f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e642d637373" alt="TailwindCSS" data-canonical-src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&amp;logo=tailwind-css" style="max-width: 100%;"></a></p>
-<p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://gin-gonic.com/">
-  <img src="https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" style="max-width: 100%;">
+<p  dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://gin-gonic.com/"><img src="https://img.shields.io/badge/-Gin-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Gin" style="max-width: 100%;">
 </a>
-
-<!-- Django (Python) -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/">
   <img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="max-width: 100%;">
 </a>
-
-<!-- FastAPI (Python) -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://fastapi.tiangolo.com/">
   <img src="https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </a>
-
-<!-- Flask (Python) -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://flask.palletsprojects.com/">
   <img src="https://img.shields.io/badge/-Flask-%23000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
 </a>
@@ -52,7 +45,7 @@
   <img src="https://img.shields.io/badge/-Uvicorn-%2300C7B7?style=flat-square&logo=python&logoColor=white" alt="Uvicorn">
 </a>
 </p>
-<p>
+<p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://echo.labstack.com/">
   <img src="https://img.shields.io/badge/-Echo-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Echo">
 </a>
@@ -62,7 +55,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/spf13/cobra">
   <img src="https://img.shields.io/badge/-Cobra-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Cobra">
 </a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/spf13/viper">
   <img src="https://img.shields.io/badge/-Viper-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Viper">
 </a>
@@ -70,7 +62,7 @@
   <img src="https://img.shields.io/badge/-Fiber-%2300ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber">
 </a>
 </p>
-<p>
+<p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </a>
@@ -87,7 +79,7 @@
   <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </a>
 </p>
-<p>
+<p  dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
